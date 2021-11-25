@@ -1,4 +1,4 @@
 package singleton;
 
-public class demo01 {
+public class Demo01 {
 }

@@ -2,6 +2,7 @@ package singleton;
 
 /**
  * 单列模式
+ * 最严谨的是枚举单列模式，因为枚举没有构造方法，就不能反序列化回来
  */
 public class Demo01 {
 
